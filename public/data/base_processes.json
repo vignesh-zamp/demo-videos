@@ -1,0 +1,67 @@
+[
+    {
+        "id": "DEV_001",
+        "category": "Deviation Trend Intelligence",
+        "name": "NC-ATO-2026-0892 \u2014 Filter Integrity Test Failure",
+        "stockId": "NC-ATO-2026-0892",
+        "year": "2026-02-17",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "fileName": "TrackWise NC Initiation Form",
+        "site": "Thousand Oaks (ATO)",
+        "product": "Repatha",
+        "classification": "Minor"
+    },
+    {
+        "id": "DEV_002",
+        "category": "Deviation Trend Intelligence",
+        "name": "NC-IRE-2026-1103 \u2014 EM Excursion Grade B Area",
+        "stockId": "NC-IRE-2026-1103",
+        "year": "2026-02-17",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "fileName": "TrackWise NC Initiation Form",
+        "site": "Ireland (IRE)",
+        "product": "Enbrel",
+        "classification": "Major"
+    },
+    {
+        "id": "DEV_003",
+        "category": "Deviation Trend Intelligence",
+        "name": "NC-PR-2026-0447 \u2014 Bioreactor DO Probe Excursion",
+        "stockId": "NC-PR-2026-0447",
+        "year": "2026-02-18",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "fileName": "TrackWise NC Initiation Form",
+        "site": "Puerto Rico (PR)",
+        "product": "Prolia",
+        "classification": "Minor"
+    },
+    {
+        "id": "DEV_004",
+        "category": "Deviation Trend Intelligence",
+        "name": "NC-ATO-2026-0915 \u2014 Temperature Control Drift",
+        "stockId": "NC-ATO-2026-0915",
+        "year": "2026-02-18",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "fileName": "TrackWise NC Initiation Form",
+        "site": "Thousand Oaks (ATO)",
+        "product": "Aimovig",
+        "classification": "Minor"
+    },
+    {
+        "id": "DEV_005",
+        "category": "Deviation Trend Intelligence",
+        "name": "NC-OH-2026-0088 \u2014 Cleaning Validation Failure",
+        "stockId": "NC-OH-2026-0088",
+        "year": "2026-02-19",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "fileName": "TrackWise NC Initiation Form",
+        "site": "Ohio (OH)",
+        "product": "Lumakras",
+        "classification": "Major"
+    }
+]
